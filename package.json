@@ -1,0 +1,15 @@
+{
+  "name": "kaun-banega-geographypati",
+  "version": "1.0.0",
+  "description": "A CLI based quiz game of 10 points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan Nair",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
